@@ -1,7 +1,7 @@
-- 🔭 Atualmente estou trabalhando em... FrontEnd
-- 🌱 Atualmente estou aprendendo ...Python
-- 👯 Estou procurando colaborar com...Jogos Educativos
-- 🤔 Estou procurando ajuda constante em...Responsividade
+- 🔭 Estou trabalhando em... FrontEnd
+- 🌱 Estou aprendendo ...Python
+- 👯 Atualmente colaboro com...Jogos De Alfabetização
+- 🤔  Procuro ajuda constante no requisito...Responsividade
 - 📫 Me siga aqui:
    https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
 
