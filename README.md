@@ -6,6 +6,7 @@
    https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisquejogos&langs_count=8)](https://github.com/maisquejogos/github-readme-stats)
 
 
 
