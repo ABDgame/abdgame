@@ -1,5 +1,5 @@
 - 🔭 Estou trabalhando em... FrontEnd.
-- 🌱 Aprendendo Python GUI...
+- 🌱 Aprendendo Python...
 - 👯 Colaboro com...Jogos De Alfabetização.
 - 🤔 A procura insensante por ajuda no requisito...Responsividade.
 - 📫 Para maiores informações:
