@@ -1,5 +1,5 @@
-- 🔭 Estou trabalhando... FrontEnd.
-- 🌱 Aprendendo desenvolvimento de jogos educativos...
+- 🔭 Estou trabalhando em...FrontEnd.
+- 🌱 Aprendendo Backend...
 - 👯 Colaboro com...Jogos De Alfabetização.
 - 🤔 A procura insensante por ajuda no requisito...Responsividade.
 - 📫 Para maiores informações:
