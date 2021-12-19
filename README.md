@@ -1,6 +1,6 @@
 - 🔭 Estou trabalhando em...FrontEnd.
 - 🌱 Aprendendo Backend...
-- 👯 Colaboro com...Jogos De Alfabetização.
+- 👯 Colaboro voluntariamente com...Jogos De Alfabetização.
 - 🤔 A procura insensante por...Responsividade.
 - 📫 Para maiores informações:
    https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
