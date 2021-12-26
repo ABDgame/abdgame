@@ -2,8 +2,7 @@
 - 🌱 Aprendendo Backend...
 - 👯 Colaboro voluntariamente com...Jogos De Alfabetização.
 - 🤔 A procura insensante por...Responsividade.
-- 📫 Para maiores informações:
-   https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- 📫 Para visualizar mais:https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
 
