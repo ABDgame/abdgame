@@ -1,6 +1,6 @@
 - 🌱 Pratico FrontEnd...
 - 👯 Colaboro voluntariamente com...Jogos De Alfabetização.
-- 🤔 A procura incenssante por...Responsividade.
+- 🤔 A procura incenssante por...Mobile First.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
